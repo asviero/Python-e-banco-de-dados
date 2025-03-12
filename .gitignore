@@ -1,0 +1,15 @@
+# Ignorar todas as pastas
+*/
+
+# Ignorar arquivos .txt
+*.txt
+
+# Ignorar arquivos .csv
+*.csv
+
+# Ignorar arquivos .xlsx
+*.xlsx
+
+# Ignorar alguns códigos python
+faixaSalarial.py
+nomesDuplicados.py
